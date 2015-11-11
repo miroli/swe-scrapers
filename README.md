@@ -7,7 +7,7 @@ To add a new scraper, just submit a [pull request](https://help.github.com/artic
 
 __Python__
 * [flashback](https://github.com/vienno/flashback) – Collects discussion threads. Results saved as CSV or JSON.
-* [SDR](https://github.com/rotsee/SDRSkrejper) – Skrejp Swedish household data from the direct marketing franchisor SDR.
+* [SDR](https://github.com/rotsee/SDRSkrejper) – Gather Swedish household data from the direct marketing franchisor SDR.
 
 ---
 
