@@ -10,10 +10,11 @@ __Python__
 
 ---
 
-### www.sdr.se
+### sdr.se
+Swedish direct marketing franchisor SDR.
 
 __Python__
-* [SDR](https://github.com/rotsee/SDRSkrejper) – Gather Swedish household data from the direct marketing franchisor SDR.
+* [SDR](https://github.com/rotsee/SDRSkrejper) – Gather household statistics (share of different household types) per five digit postal code.
 
 ---
 
