@@ -44,3 +44,10 @@ __Python__
 __Go__
 * [stockholmfoodtrucks](https://github.com/peterhellberg/stockholmfoodtrucks) - A Stockholm food trucks client written in Go.
 
+=======
+### api.nobelprize.org
+
+__Ruby__
+* [nobel](https://github.com/peterhellberg/nobel) - A small API client for the Nobel Prize API.
+
+---
