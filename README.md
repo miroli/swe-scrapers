@@ -1,7 +1,10 @@
 # swe-scrapers
 A collection of web scrapers and API wrappers for Swedish sites. The list is alphabetized by site name and further divided by programming language.
 
-To add a new scraper, just submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) with the name of the scraper, a link to the repository and a short description. See examples below.
+To add a new scraper, you have two options:
+
+1. [Create an issue](https://help.github.com/articles/creating-an-issue/) __(preferred)__.
+2. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) with the name of the scraper, a link to the repository and a short description. See examples below.
 
 ### flashback.org
 
