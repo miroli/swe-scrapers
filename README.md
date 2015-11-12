@@ -10,6 +10,13 @@ __Python__
 
 ---
 
+### Länsförsäkringar bank
+
+__Python__
+* [pylansforsakringar](https://github.com/donnex/pylansforsakringar) – Scraper for fetching bank information from Länsförsäkringar bank.
+
+---
+
 ### sdr.se
 Swedish direct marketing franchisor SDR.
 
