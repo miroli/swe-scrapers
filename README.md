@@ -31,3 +31,10 @@ __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
 ---
+
+### stockholmfoodtrucks.nu
+
+__Go__
+* [stockholmfoodtrucks](https://github.com/peterhellberg/stockholmfoodtrucks) - A Stockholm food trucks client written in Go.
+
+---
