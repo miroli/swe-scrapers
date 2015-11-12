@@ -31,3 +31,10 @@ __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
 ---
+
+### api.nobelprize.org
+
+__Ruby__
+* [nobel](https://github.com/peterhellberg/nobel) - A small API client for the Nobel Prize API.
+
+---
