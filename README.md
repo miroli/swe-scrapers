@@ -37,6 +37,9 @@ __Python__
 __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
+__Ruby__
+* [scb](https://github.com/peterhellberg/scb) - A small API client for the SCB API.
+
 ---
 
 ### stockholmfoodtrucks.nu
@@ -44,7 +47,8 @@ __Python__
 __Go__
 * [stockholmfoodtrucks](https://github.com/peterhellberg/stockholmfoodtrucks) - A Stockholm food trucks client written in Go.
 
-=======
+---
+
 ### api.nobelprize.org
 
 __Ruby__
