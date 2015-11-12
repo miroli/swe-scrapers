@@ -10,6 +10,13 @@ __Python__
 
 ---
 
+### Länsförsäkringar bank
+
+__Python__
+* [pylansforsakringar](https://github.com/donnex/pylansforsakringar) – Scraper for fetching bank information from Länsförsäkringar bank.
+
+---
+
 ### sdr.se
 Swedish direct marketing franchisor SDR.
 
@@ -31,6 +38,7 @@ __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
 ---
+<<<<<<< HEAD
 
 ### stockholmfoodtrucks.nu
 
@@ -38,3 +46,5 @@ __Go__
 * [stockholmfoodtrucks](https://github.com/peterhellberg/stockholmfoodtrucks) - A Stockholm food trucks client written in Go.
 
 ---
+=======
+>>>>>>> 962fc5aa1e62e5cfd992cba51185c7d5cb29a5b7
