@@ -30,4 +30,7 @@ __Python__
 __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
+__Ruby__
+* [scb](https://github.com/peterhellberg/scb) - A small API client for the SCB API.
+
 ---
