@@ -31,3 +31,10 @@ __Python__
 * [scb_nb](https://github.com/vienno/scb_nb) – API wrapper intended to be used in IPython Notebooks.
 
 ---
+
+### TV sport
+
+__JSON__
+* [tvsport](https://tvsport.donnex.net/) – JSON API with TV schedule for sport on Swedish TV.
+
+---
